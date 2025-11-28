@@ -57,6 +57,7 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
  ## RESULT:
  Thus the Zener diode characteristics were studied.
+ 
         Forward resistance ,R(F) =  12 ohm
         Reverse resistance ,R(R) =  20 ohm
 
