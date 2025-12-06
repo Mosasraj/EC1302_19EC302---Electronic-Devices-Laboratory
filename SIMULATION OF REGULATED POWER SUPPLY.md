@@ -41,7 +41,8 @@ LT-Spice
 
 ## AC INPUT WAVEFORM:
 <img width="935" height="472" alt="image" src="https://github.com/user-attachments/assets/79b42ce7-8319-495d-8e16-cf09d24cfad5" />
-![WhatsApp Image 2025-12-06 at 04 09 08_967a4a54](https://github.com/user-attachments/assets/e9ceeb1e-442e-47d4-8762-6c08713c8b06)
+![WhatsApp Image 2025-12-06 at 04 09 08_ea026094](https://github.com/user-attachments/assets/6ddb4531-8deb-4083-8ed3-e4bc636a9320)
+
 
 
 ## OUTPUT GRAPH:
@@ -50,7 +51,8 @@ LT-Spice
 
 ## SIGNAL OUTPUT(WITH FILTER)
 <img width="932" height="471" alt="image" src="https://github.com/user-attachments/assets/5504a10a-b5a0-4fd6-92e2-6bccf6ca5971" />
-![Uploading WhatsApp Image 2025-12-06 at 04.09.26_cd1a0ea3.jpg…]()
+
+![WhatsApp Image 2025-12-06 at 04 09 26_5fb3a98f](https://github.com/user-attachments/assets/08576dde-f2d6-42f7-95e2-aaaa05049fdf)
 
 
 ## RESULT:
