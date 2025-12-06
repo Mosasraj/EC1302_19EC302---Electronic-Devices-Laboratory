@@ -25,12 +25,13 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-28 at 12 24 02_cad209ed](https://github.com/user-attachments/assets/f7107d78-09ec-4504-9390-3f93105a8ede)
-![WhatsApp Image 2025-12-06 at 04 06 37_76a0480e](https://github.com/user-attachments/assets/feec091f-4907-4616-9b24-4619c318a2fb)
+
 
 
 
 ## OUTPUT GRAPH:
 ![WhatsApp Image 2025-11-28 at 12 28 23_406b484f](https://github.com/user-attachments/assets/c1d87584-8c89-4af3-93bc-ce6bf1b212f3)
+![WhatsApp Image 2025-12-06 at 04 06 37_76a0480e](https://github.com/user-attachments/assets/8bc64efa-007c-488d-bd3f-58caa00800b4)
 
 
 ## RESULT:
